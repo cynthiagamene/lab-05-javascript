@@ -1,1 +1,1 @@
-# lab-05-javascript
+This is lab-06-javascript
